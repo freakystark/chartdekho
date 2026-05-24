@@ -321,7 +321,7 @@
 //   { date: '11:45 AM', open: 22430, high: 22435, low: 22395, close: 22412, volume: 21.0 }
 // ];
 import { Course, FacultyProfile, Testimonial, LiveClass, MarketTickerSymbol, FiiDiiData, FreeClassVideo } from './types';
-import abhayAvatar from './assets/images/abhay_jagirdar_1779621937127.jpeg';
+import abhayAvatar from './assets/images/abhay_jagirdar_profile_1779000392518.png';
 
 export const FACULTY_PROFILE: FacultyProfile = {
   name: "Mr. Abhay Mukund Jagirdar",
