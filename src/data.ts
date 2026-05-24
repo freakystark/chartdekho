@@ -23,7 +23,7 @@ export const FACULTY_PROFILE: FacultyProfile = {
     "Certified Technical Analyst Practitioner"
   ],
   //avatarUrl: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=400&h=400"
-  avatarUrl: "https://drive.google.com/file/d/1ITQTU1T92jdPUpeMWnqmile09PigDteX/view?usp=sharing?auto=format&fit=crop&q=80&w=400&h=400"
+  avatarUrl: "gs://thepianoproject-shantanuj.firebasestorage.app/chartdekho/Abhay-Jagirdar_portrait.jpeg"
 };
 
 export const COURSES: Course[] = [
