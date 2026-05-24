@@ -191,9 +191,9 @@ export default function AboutTeacher() {
                 />
                 
                 {/* Solitary Badge */}
-                <span className="absolute top-6 left-6 bg-brand-950/90 text-gold-400 text-[10px] font-mono tracking-widest font-bold px-3 py-1 rounded border border-gold-400/20 shadow-md">
+                {/* <span className="absolute top-6 left-6 bg-brand-950/90 text-gold-400 text-[10px] font-mono tracking-widest font-bold px-3 py-1 rounded border border-gold-400/20 shadow-md">
                   SOLE INSTRUCTOR
-                </span>
+                </span> */}
               </div>
             </div>
 
