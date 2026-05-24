@@ -169,7 +169,7 @@ export default function Footer({ onNavigateToSection, onOpenEnrollModal }: Foote
 
         {/* Bottom credits */}
         <div className="pt-8 flex flex-col sm:flex-row justify-between items-center text-[11px] text-slate-400 font-mono gap-4">
-          <p>© 2026 Chart Dekho Trading Institute. Designed with professional standards.</p>
+          <p>© 2026 Chart Dekho Trading Institute. Designed with ♥️ by freakystark</p>
           <div className="space-x-4">
             <span className="hover:text-white cursor-default">Privacy Policy</span>
             <span>•</span>
